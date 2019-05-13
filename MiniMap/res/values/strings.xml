@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiniMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_waypoint">New Waypoint</string>
+    <string name="edit_waypoints">Edit Waypoints</string>
+    <string name="title_activity_waypoint_creator">WaypointCreator</string>
+    <string name="title_activity_waypoint_list">WaypointListActivity</string>
+    <string name="title_activity_waypoint_editor">WaypointEditorActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+</resources>
